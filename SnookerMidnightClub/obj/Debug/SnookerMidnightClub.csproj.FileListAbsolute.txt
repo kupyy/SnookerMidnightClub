@@ -1,0 +1,15 @@
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\bin\Debug\SnookerMidnightClub.exe.config
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\bin\Debug\SnookerMidnightClub.exe
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\bin\Debug\SnookerMidnightClub.pdb
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.csproj.AssemblyReference.cache
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.Properties.Resources.resources
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.csproj.GenerateResource.cache
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.exe
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.pdb
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\bin\Debug\Guna.UI2.dll
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerM.23665024.Up2Date
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.FormInicio.resources
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.FormRegistro.resources
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.FormInicioSesion.resources
+C:\Users\omar\source\repos\SnookerMidnightClub\SnookerMidnightClub\obj\Debug\SnookerMidnightClub.FormAdmin.resources
